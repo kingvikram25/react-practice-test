@@ -18,7 +18,7 @@ export function Gallery() {
   return (
     <img
       src={Image1}
-      alt="Guman & Vikram"
+      alt="Guman & ladooo"
       style={{ paddingRight: "10px", width: "215px" }}
     />
   );
