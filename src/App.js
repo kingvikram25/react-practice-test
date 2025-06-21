@@ -8,7 +8,7 @@ import { VideoLadooo } from "./profile";
 export default function App() {
   return (
     <>
-      <h1>Amazing Sciencetist</h1>
+      <h1>Amazing Sciencetist List </h1>
       <Intro />
       {/* <Profile /> */}
       <Gallery />
